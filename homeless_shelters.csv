@@ -1,0 +1,84 @@
+Organization,Shelter Facility,City,State,Zip Code,Phone,HIC Beds,Type (T/E),Island,New Georeferenced Column,latitude,longitude
+Alternative Structures International,Ohana Ola O Kahumana *,Waianae,HI,96792,(808) 696-4095,222,T,Oahu,POINT (-158.161693 21.442697),21.442697,-158.161693
+Catholic Charities Hawaii,Maili Land*,Waianae,HI,96792,(808) 696-4885,54,T,Oahu,POINT (-158.161693 21.442697),21.442697,-158.161693
+Catholic Charities Hawaii,Family Assessment Center*,Honolulu,HI,96813,(808) 521-4357,50,E,Oahu,POINT (-157.850311 21.31207),21.31207,-157.850311
+Catholic Charities Hawaii,Villages of Maili,Waianae,HI,96792,(808) 521-4357,120,E,Oahu,POINT (-158.161693 21.442697),21.442697,-158.161693
+Child & Family Services,CFS Transitional Apartments*,Ewa Beach,HI,96706,(808) 841-0822,46,T,Oahu,POINT (-158.015744 21.33493),21.33493,-158.015744
+Child and Family Service,Hale Ohana*,Hilo,HI,96720,(808) 935-2188,16,E (DV),Hawaii,POINT (-155.183814 19.686113),19.686113,-155.183814
+Child and Family Service,West Hawaii Domestic Abuse Shelter*,Kailua-Kona,HI,96740,(808) 935-2188,10,E (DV),Hawaii,POINT (-155.974369 19.690584),19.690584,-155.974369
+Child and Family Service,Hale Kahua Paa*,Hilo,HI,96720,(808) 935-2188,10,T (DV),Hawaii,POINT (-155.183814 19.686113),19.686113,-155.183814
+Family Life Center,Hoolanani,Kahului,HI,96732,(808) 877-0880,18,E,Maui,POINT (-156.462615 20.879676),20.879676,-156.462615
+Family Promise of Hawaii,Honolulu Family Center*,Honolulu,HI,96817,(808) 548-7478,14,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Family Promise of Hawaii,Wahiawa Family Center*,Wahiawa,HI,96786,(808) 258-2404,14,E,Oahu,POINT (-158.041806 21.499705),21.499705,-158.041806
+Gregory House Programs,Community Residential Program,Honolulu,HI,96817,(808) 592-9022,11,T,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Gregory House Programs,HOPWA Transitional Housing,Honolulu,HI,96817,(808) 592-9022,15,T,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Hale Kipa,Young Men's Maka'aloa,Honolulu,HI,96814,(808) 589-1829,4,T,Oahu,POINT (-157.845162 21.296556),21.296556,-157.845162
+Hale Kipa,Young Women's Apaa,Honolulu,HI,96814,(808) 589-1829,4,T,Oahu,POINT (-157.845162 21.296556),21.296556,-157.845162
+Hale Kipa,Boys BCP Emergency Shelter,Honolulu,HI,96814,(808) 589-1829,8,E,Oahu,POINT (-157.845162 21.296556),21.296556,-157.845162
+Hale Kipa,Girls BCP Emergency Shelter,Honolulu,HI,96814,(808) 589-1829,8,E,Oahu,POINT (-157.845162 21.296556),21.296556,-157.845162
+Hawaii Island Home for Recovery,Hawaii Island Home for Recovery,Hilo,HI,96720,(808) 934-7852,16,T,Hawaii,POINT (-155.183814 19.686113),19.686113,-155.183814
+Holomua Na Ohana,Weinberg Village Waimanalo*,Waimanalo,HI,96795,(808) 259-6658,125,T,Oahu,POINT (-157.711469 21.341327),21.341327,-157.711469
+Honolulu Community Action Program,Kumuhonua,Kapolei,HI,96707,(808) 521-4531,68,T,Oahu,POINT (-158.076838 21.338216),21.338216,-158.076838
+Ho'omau Ke Ola,Lahilahi,Waianae,HI,96792,(808) 696-4266,10,T,Oahu,POINT (-158.161693 21.442697),21.442697,-158.161693
+"HOPE Services, Inc.",East Hawaii Emergency Mens Program,Hilo,HI,96720,(808) 935-3050,16,E,Hawaii,POINT (-155.183814 19.686113),19.686113,-155.183814
+"HOPE Services, Inc.",Kihei Pua Emergency Shelter*,Hilo,HI,96720,(808) 935-3050,44,E,Hawaii,POINT (-155.183814 19.686113),19.686113,-155.183814
+"HOPE Services, Inc.",Sacred Heart Shelter,Pahoa,HI,96778,(808) 935-3050,15,E,Hawaii,POINT (-154.946493 19.474737),19.474737,-154.946493
+"HOPE Services, Inc.",HOPE Kuleana House,Hilo,HI,96720,(808) 935-3050,6,T,Hawaii,POINT (-155.183814 19.686113),19.686113,-155.183814
+"HOPE Services, Inc.",HOPE Wilder House,Hilo,HI,96720,(808) 935-3050,8,T,Hawaii,POINT (-155.183814 19.686113),19.686113,-155.183814
+"HOPE Services, Inc.",West Hawaii Emergency Housing,Kailua-Kona,HI,96740,(808) 935-3050,31,E,Hawaii,POINT (-155.974369 19.690584),19.690584,-155.974369
+"Housing Solutions, Inc.",Kulaokahua,Honolulu,HI,96814,(808) 599-5759,31,T,Oahu,POINT (-157.845162 21.296556),21.296556,-157.845162
+"Housing Solutions, Inc.",Nakolea,Honolulu,HI,96826,(808) 946-8063,64,T,Oahu,POINT (-157.826878 21.292184),21.292184,-157.826878
+Institute for Human Services,Kaahi Street - Families Shelter*,Honolulu,HI,96817,(808) 447-2800,100,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Institute for Human Services,Kaahi Street - Women's Shelter,Honolulu,HI,96817,(808) 447-2800,68,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Institute for Human Services,Sumner Street - Men's Shelter,Honolulu,HI,96817,(808) 447-2900,166,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Institute for Human Services,Behavioral Health ES,Honolulu,HI,96817,(808) 447-2800,10,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Institute for Human Services,Kalihi Uka Recovery Home,Honolulu,HI,96819,(808) 447-2800,8,E,Oahu,POINT (-157.883736 21.342241),21.342241,-157.883736
+Institute for Human Services,Hale Mauliola,Honolulu,HI,96819,(808) 447-2800,104,E,Oahu,POINT (-157.883736 21.342241),21.342241,-157.883736
+Institute for Human Services,Tutu Bert's House (Medical Respite) - 1,Honolulu,HI,96819,(808) 447-2800,12,E,Oahu,POINT (-157.883736 21.342241),21.342241,-157.883736
+Institute for Human Services,Tutu Bert's House (Medical Respite) - 2,Honolulu,HI,96822,(808) 447-2800,10,E,Oahu,POINT (-157.81908 21.310778),21.310778,-157.81908
+Institute for Human Services,Tutu Bert's House (Medical Respite) - 3,Kailua,HI,96734,(808) 447-2800,16,E,Oahu,POINT (-157.744336 21.402306),21.402306,-157.744336
+Ka Hale A Ke Ola,KHAKO Central Maui Resource Center*,Wailuku,HI,96793,(808) 242-7600,165,E,Maui,POINT (-156.510347 20.896544),20.896544,-156.510347
+Ka Hale A Ke Ola,KHAKO Central Maui Resource Center*,Wailuku,HI,96793,(808) 242-7600,64,T,Maui,POINT (-156.510347 20.896544),20.896544,-156.510347
+Ka Hale A Ke Ola,Westside Emergency Shelter,Lahaina,HI,96761,(808) 662-0074,112,E,Maui,POINT (-156.661803 20.919399),20.919399,-156.661803
+Ka Hale A Ke Ola,Westside Transitional Shelter,Lahaina,HI,96761,(808) 662-0074,56,T,Maui,POINT (-156.661803 20.919399),20.919399,-156.661803
+Kauai Economic Opportunity,Manaolana - Emergency*,Lihue,HI,96766,(808) 245-7692,38,E,Kauai,POINT (-159.382074 21.974996),21.974996,-159.382074
+Kauai Economic Opportunity,Manaolana - Transitional*,Lihue,HI,96766,(808) 245-7692,24,T,Kauai,POINT (-159.382074 21.974996),21.974996,-159.382074
+Kauai Economic Opportunity,Komohana Group Home,Lihue,HI,96766,(808) 245-4077 ext 228,6,T,Kauai,POINT (-159.382074 21.974996),21.974996,-159.382074
+Kauai Economic Opportunity,Kome Transitional,Kapaa,HI,96746,(808) 245-4077 ext 228,7,T,Kauai,POINT (-159.345012 22.087379),22.087379,-159.345012
+Kauai Economic Opportunity,Lawehana Transitional,Lihue,HI,96766,(808) 245-4077 ext 228,9,T,Kauai,POINT (-159.382074 21.974996),21.974996,-159.382074
+Kealahou West Oahu,Onelauena*,Kapolei,HI,96707,(808) 682-4673,244,E,Oahu,POINT (-158.076838 21.338216),21.338216,-158.076838
+Kealahou West Oahu,Onemalu*,Kapolei,HI,96707,(808) 682-3869,190,T,Oahu,POINT (-158.076838 21.338216),21.338216,-158.076838
+Neighborhood Place of Puna,Hale Iki Family Assessment Center*,Hawaiian Paradise Park,HI,96749,(808) 965-5550,30,E,Hawaii,POINT (-154.985921 19.593259),19.593259,-154.985921
+Parents & Children Together,Ohia Shelter*,Honolulu,HI,96817,(808) 526-2200,21,E (DV),Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Parents & Children Together,Lehua Shelter,Honolulu,HI,96817,(808) 526-2200,8,T (DV),Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+RYSE Hawaii,RYSE Assessment Center,Kailua,HI,96734,(808) 498-5180,30,E,Oahu,POINT (-157.744336 21.402306),21.402306,-157.744336
+Salvation Army,Pathways of Hope*,Honolulu,HI,96816,(808) 841-5565,24,T,Oahu,POINT (-157.796215 21.282669),21.282669,-157.796215
+Salvation Army,Ka Ohu O Manoa*,Honolulu,HI,96822,(808) 732-2802,30,T,Oahu,POINT (-157.81908 21.310778),21.310778,-157.81908
+Shelter of Wisdom,Great Joy 1,Honolulu,HI,96817,(808) 383-9498,8,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Shelter of Wisdom,Great Joy 2,Honolulu,HI,96817,(808) 383-9498,9,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Shelter of Wisdom,Great Joy 3,Honolulu,HI,96817,(808) 383-9498,10,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Shelter of Wisdom,Great Joy 4,Honolulu,HI,96817,(808) 383-9498,6,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Shelter of Wisdom,Hearts of Joy 2,Honolulu,HI,96817,(808) 383-9498,13,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Shelter of Wisdom,Streams of Joy 1,Honolulu,HI,96817,(808) 383-9498,6,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Shelter of Wisdom,Streams of Joy 2,Honolulu,HI,96817,(808) 383-9498,10,E,Oahu,POINT (-157.853835 21.33095),21.33095,-157.853835
+Steadfast Housing Development,Hale Ulu Pono,Kapolei,HI,96707,(808) 682-4466,10,T,Oahu,POINT (-158.076838 21.338216),21.338216,-158.076838
+U.S. Vets,Hilo Hoptel Program,Hilo,HI,96720,(808) 682-9000,5,E,Hawaii,POINT (-155.183814 19.686113),19.686113,-155.183814
+U.S. Vets,Kona Hoptel Program,Kailua-Kona,HI,96740,(808) 682-9000,5,E,Hawaii,POINT (-155.974369 19.690584),19.690584,-155.974369
+United States Veteran's Initiative,Paiolu Kaiaulu*,Waianae,HI,96792,(808) 696-6770,191,E,Oahu,POINT (-158.161693 21.442697),21.442697,-158.161693
+United States Veteran's Initiative,Paiolu Kaiaulu - HOPTEL,Waianae,HI,96792,(808) 696-6770,5,E,Oahu,POINT (-158.161693 21.442697),21.442697,-158.161693
+United States Veteran's Initiative,Paiolu Kauaulu - SITH,Waianae,HI,96792,(808) 696-6770,5,T,Oahu,POINT (-158.161693 21.442697),21.442697,-158.161693
+United States Veteran's Initiative,Barber's Point - Bridge Housing,Kapolei,HI,96707,(808) 682-9000,36,T,Oahu,POINT (-158.076838 21.338216),21.338216,-158.076838
+United States Veteran's Initiative,Barber's Point - Clinical Treatment,Kapolei,HI,96707,(808) 682-9000,12,T,Oahu,POINT (-158.076838 21.338216),21.338216,-158.076838
+United States Veteran's Initiative,Barber's Point - SITH,Kapolei,HI,96707,(808) 682-9000,3,T,Oahu,POINT (-158.076838 21.338216),21.338216,-158.076838
+United States Veteran's Initiative,Barber's Point Ewa Hoptel,Ewa Beach,HI,96706,(808) 682-9000,5,E,Oahu,POINT (-158.015744 21.33493),21.33493,-158.015744
+United States Veteran's Initiative,Barber's Point Pearl City Hoptel,Pearl City,HI,96782,(808) 682-9000,5,E,Oahu,POINT (-157.964306 21.402807),21.402807,-157.964306
+United States Veteran's Initiative,Barber's Point Pearl City Seniors Hoptel,Pearl City,HI,96782,(808) 682-9000,5,E,Oahu,POINT (-157.964306 21.402807),21.402807,-157.964306
+United States Veteran's Initiative,Barber's Point - Respite Beds,Kapolei,HI,96707,(808) 682-9000,10,E,Oahu,POINT (-158.076838 21.338216),21.338216,-158.076838
+Waikiki Health Center,Next Step Shelter,Honolulu,HI,96813,(808) 585-8800,135,E,Oahu,POINT (-157.850311 21.31207),21.31207,-157.850311
+Windward Spouse Abuse Shelter,Hale Ola,Kaneohe,HI,96744,(808) 528-0606,18,E (DV),Oahu,POINT (-157.810792 21.421072),21.421072,-157.810792
+Windward Spouse Abuse Shelter,Imua,Kaneohe,HI,96744,(808) 528-0606,1,T (DV),Oahu,POINT (-157.810792 21.421072),21.421072,-157.810792
+Women Helping Women,Hale Lokomaikai,Wailuku,HI,96793,(808) 579-9581,17,E (DV),Maui,POINT (-156.510347 20.896544),20.896544,-156.510347
+Women in Need,Bridge to Success - Halawa*,Honolulu,HI,96818,(808) 696-1996,27,T,Oahu,POINT (-157.928788 21.349981),21.349981,-157.928788
+Women in Need,Family House - Aiea*,Aiea,HI,96701,(808) 222-9234,20,T,Oahu,POINT (-157.924592 21.387139),21.387139,-157.924592
+Women in Need,WIN Kauai,Lihue,HI,96766,(808) 245-1996,15,T,Kauai,POINT (-159.382074 21.974996),21.974996,-159.382074
+YWCA of Kauai,Family Violence Shelter*,Lihue,HI,96766,(808) 245-5959,18,E (DV),Kauai,POINT (-159.382074 21.974996),21.974996,-159.382074
