@@ -4,8 +4,9 @@
 from dash import Dash, html, dcc
 import plotly.express as px
 import pandas as pd
+import dash_bootstrap_components as dbc
 
-app = Dash(__name__)
+app = Dash(__name__, external_stylesheets=[dbc.themes.SUPERHERO])
 
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
@@ -14,21 +15,32 @@ app = Dash(__name__)
 shelters_df = pd.read_csv('homeless_shelters.csv')
 #print(hotels_df.head)
 
-fig = px.scatter_mapbox(shelters_df, lat='latitude', lon='longitude', mapbox_style='carto-positron')
+fig = px.scatter_mapbox(shelters_df, lat='latitude', lon='longitude', mapbox_style='carto-positron', width=800)
+fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
 
-app.layout = html.Div(children=[
-    html.H1(children='Hello Dash'),
+app.title = 'Hawaii Homelessness Dashboard'
 
-    html.Div(children='''
-        Dash: A web application framework for your data.
-    '''),
+app.layout = dbc.Container(children=[
+    html.H1('Homelessness in Hawaii', style={"align": "center"}),
 
-    dcc.Graph(
-        id='example-graph',
-        figure=fig
-    )
-])
+        dbc.Row([
+            dbc.Col(
+                dbc.Card(
+                    dbc.CardBody(
+                        "Homelessness is a persisting issue on the Hawaiian Islands."
+                    )
+                ), width=4
+            ),
 
-app.run_server(debug=True)
-#if __name__ == '__main__':
-#    app.run_server(debug=True)
+
+            dbc.Col(
+                dcc.Graph(
+                    id='example-graph',
+                    figure=fig,
+                ),  width=8, style={"margin": "auto"}
+        )
+    ])], className="dbc", fluid=True)
+
+#app.run_server(debug=True)
+if __name__ == '__main__':
+    app.run_server(debug=True)
